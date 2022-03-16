@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-ewutjw3k)c)nqdg4x70kf_cvin*aof4-fwhtwvl3pc$#ga=_!d
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-                 'otsuki-simple-web-app.azurewebsites.net',         
-                 'https://otsuki-simple-web-app.azurewebsites.net']
+                 'otsuki-my-first-azure-deployed-app.azurewebsites.net',         
+                 'https://otsuki-my-first-azure-deployed-app.azurewebsites.net']
 
 
 # Application definition
