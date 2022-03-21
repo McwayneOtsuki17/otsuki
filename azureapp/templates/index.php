@@ -33,10 +33,7 @@
 <body data-home-page="#" data-home-page-title="HOME" class="u-body u-xl-mode">
   <header class="u-clearfix u-header u-header" id="sec-c148">
     <div class="u-clearfix u-sheet u-sheet-1">
-      <a href="#" class="u-border-active-palette-2-base u-border-hover-palette-1-base u-border-none u-btn u-button-style u-custom-font u-heading-font u-none u-text-active-palette-5-base u-text-grey-80 u-text-hover-palette-1-base u-btn-1">大槻<span style="font-weight: 700;">
-          <span style="font-weight: 400;"></span>
-        </span>
-      </a>
+      <a href="#" class="u-border-active-palette-2-base u-border-hover-palette-1-base u-border-none u-btn u-button-style u-custom-font u-heading-font u-none u-text-active-palette-5-base u-text-grey-80 u-text-hover-palette-1-base u-btn-1">大槻</a>
       <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
         <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
           <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="font-size: calc(1em + 6px); padding: 3px 14px;">
@@ -79,12 +76,13 @@
   </header>
   <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="2208" data-image-height="1656" id="sec-c761">
     <div class="u-clearfix u-sheet u-sheet-1">
-      <h1 class="u-hover-feature u-text u-text-custom-color-2 u-title u-text-1" style="font-size: 70px;">大槻, ​マクウェイン</h1>
-      <h1 class="u-custom-font u-text u-text-default u-text-font u-title u-text-2" style="font-size: 70px;" data-animation-name="customAnimationIn" data-animation-duration="2500" data-animation-direction="">OTSUKI​, MCWAYNE</h1>
+      <h1 class="u-hover-feature u-text u-text-custom-color-2 u-title u-text-1" style="font-size: 50px;">大槻, ​マクウェイン</h1><br>
+      <h1 class="u-custom-font u-text u-text-default u-text-font u-title u-text-2" style="font-size: 50px;" data-animation-name="customAnimationIn" data-animation-duration="2500" data-animation-direction="">OTSUKI​, MCWAYNE</h1>
       <br>
-      <h1 class="u-custom-font u-text u-text-default u-text-font u-text-3" style="font-size: 20px;" data-animation-name="customAnimationIn" data-animation-duration="2750">BACHELOR OF SCIENCE<br>IN INFORMATION TECHNOLOGY - III</h1>
-      <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1" data-animation-name="customAnimationIn" data-animation-duration="2500" data-animation-direction="">
-        <a class="u-social-url" title="facebook" href="#"><span class="u-icon u-social-facebook u-social-icon u-text-palette-3-dark-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
+      <h1 class="u-custom-font u-text u-text-default u-text-font u-text-3" style="font-size: 15px;" data-animation-name="customAnimationIn" data-animation-duration="2750">BACHELOR OF SCIENCE<br>IN INFORMATION TECHNOLOGY - III</h1>
+      <br>
+      <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1" data-animation-name="customAnimationIn" data-animation-duration="2500" data-animation-direction="" style="margin: auto;">
+        <a class="u-social-url" title="facebook" href="#"><span class="u-icon u-social-facebook u-social-icon u-text-palette-3-dark-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="padding: 10px;">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-f99e"></use>
             </svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-f99e">
               <circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle>
@@ -92,7 +90,7 @@
             c0-6.7,3.1-17,17-17h12.5v13.9H73.5z"></path>
             </svg></span>
         </a>
-        <a class="u-social-url" data-type="Github" title="Github" href="#"><span class="u-icon u-social-github u-social-icon u-text-palette-3-dark-1 u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
+        <a class="u-social-url" data-type="Github" title="Github" href="#"><span class="u-icon u-social-github u-social-icon u-text-palette-3-dark-1 u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="padding: 10px">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-2beb"></use>
             </svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-2beb">
               <circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle>
@@ -102,7 +100,7 @@
 	c0,4.3,0.1,8.3,0.1,9.5h25.2c0-1.7,0.1-7.2,0.1-14c0-4.7-1.7-7.9-3.4-9.4C76,75.2,88,70.9,88,51.3z"></path>
             </svg></span>
         </a>
-        <a class="u-social-url" title="instagram" href="#"><span class="u-icon u-social-icon u-social-instagram u-text-palette-3-dark-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
+        <a class="u-social-url" title="instagram" href="#"><span class="u-icon u-social-icon u-social-instagram u-text-palette-3-dark-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="padding: 10px">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-73c3"></use>
             </svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-73c3">
               <circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle>
@@ -114,7 +112,7 @@
             c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path>
             </svg></span>
         </a>
-        <a class="u-social-url" target="_blank" data-type="Email" title="Email" href="mailto:meadowmc17@gmail.com"><span class="u-icon u-social-email u-social-icon u-text-palette-3-dark-1 u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
+        <a class="u-social-url" target="_blank" data-type="Email" title="Email" href="mailto:meadowmc17@gmail.com"><span class="u-icon u-social-email u-social-icon u-text-palette-3-dark-1 u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="padding: 10px">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-4da4"></use>
             </svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-4da4">
               <circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle>
@@ -141,4 +139,5 @@
       </a>. 
     </section> -->
 </body>
+
 </html>
